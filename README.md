@@ -2,5 +2,5 @@
 JOVANI Jean-Philippe Art - Mosaïques - Paintures - Mosaics - Paintings - Gallery
 
 
-/home/jp/Documents/ZURB site 21/21 ONEGOLD1 Hero/nft-1-1_golden-horizon.png
-https://github.com/jpjovani/jovani.github.io/blob/main/a-550w.png
+![image](https://user-images.githubusercontent.com/69632791/134767285-48cfca9a-3704-4103-9330-313a13f0612a.png)
+
